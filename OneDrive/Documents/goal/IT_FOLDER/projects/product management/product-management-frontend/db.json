@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Watch",
+      "price": 99.99,
+      "description": "Elegant analog watch.",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": "2",
+      "name": "Running Shoes",
+      "price": 59.99,
+      "description": "Comfortable running shoes.",
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1528701800489-20beebd6f5c5"
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Headset",
+      "price": 29.5,
+      "description": "Lightweight wireless headset.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": "dcc5",
+      "name": "bangles",
+      "price": 1000,
+      "category": "accessories",
+      "description": "classic women gold platted bangles",
+      "image": ""
+    }
+  ]
+}
